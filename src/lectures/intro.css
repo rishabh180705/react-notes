@@ -1,22 +1,29 @@
 .link-container {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
   padding: 20px;
-  max-width: 600px;
+  background-color: #f9f9f9;
+  max-width: 800px;
   margin: 0 auto;
+  border-radius: 8px;
   font-family: Arial, sans-serif;
 }
 
 .link-container a {
-  color: #1e90ff;
+  display: block;
+  margin: 10px 0;
+  color: #007acc;
   text-decoration: none;
   font-size: 16px;
-  transition: color 0.2s ease, transform 0.2s ease;
+  transition: color 0.2s;
 }
 
 .link-container a:hover {
-  color: #0d47a1;
+  color: #005f99;
   text-decoration: underline;
-  transform: scale(1.02);
+}
+
+.link-container h4 {
+  margin-top: 20px;
+  font-weight: normal;
+  color: #333;
+  font-size: 18px;
 }

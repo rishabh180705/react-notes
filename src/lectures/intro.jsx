@@ -15,6 +15,17 @@ const intro = () => {
       <a href="https://www.geeksforgeeks.org/reactjs/reactjs-virtual-dom/" target="_blank">Virtual DOM</a>
       <a href="https://www.geeksforgeeks.org/reactjs/reactjs-application-structure/" target="_blank">React Application Structure</a>
       <a href="https://www.geeksforgeeks.org/reactjs/reactjs-babel-introduction/" target="_blank">Babel in React</a>
+      <a href="https://legacy.reactjs.org/docs/handling-events.html" target="_blank">Handling Events in React</a>
+        <a href="https://legacy.reactjs.org/docs/forms.html" target="_blank">Forms in React</a>
+        <a href="https://legacy.reactjs.org/docs/lifting-state-up.html" target="_blank">Lifting State Up</a>
+        <a href="https://legacy.reactjs.org/docs/thinking-in-react.html" target="_blank">Thinking in React</a>
+        <a href="https://legacy.reactjs.org/docs/conditional-rendering.html" target="_blank">Conditional Rendering</a>
+        <a href="https://legacy.reactjs.org/docs/refs-and-the-dom.html" target="_blank">Refs and the DOM</a>
+        <a href="https://www.geeksforgeeks.org/reactjs/explain-new-context-api-in-react/" target="_blank">Context API in React</a>
+        <a href="https://legacy.reactjs.org/docs/portals.html" target="_blank">Portals in React</a>
+        <a href="https://legacy.reactjs.org/docs/error-boundaries.html" target="_blank">Error Boundaries</a>
+        <a href="https://legacy.reactjs.org/docs/code-splitting.html" target="_blank">Code Splitting</a>
+        <h4> what is react component : it is a react element whose type is fuction and returning a jsx</h4>
 
     </div>
   )

@@ -1,0 +1,19 @@
+.basket-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.basket-image {
+  width: 50px;
+  height: auto;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.basket-image:hover {
+  transform: scale(1.1);
+}
